@@ -1,1 +1,0 @@
-Cart Page quantity change grab from input field feature is not applied. (Time Stamp = 4:00:50).
